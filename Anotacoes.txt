@@ -13,7 +13,7 @@ descritivo que pode ser acessado através da função help() ou em IDEs para for
     - Abstração: Simplifica sistemas complexos, focando nos aspectos essenciais.
 
 
-(casos dentor do Python)
+(casos dentro do Python)
 --> Dúvida:  - Se usa o f'text text' ou 'text text {}'.format(elemento)?
              - No caso do ruturn tanto tem um especifico? 
 
