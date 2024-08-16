@@ -1,0 +1,59 @@
+Manipulação de Arquivos
+
+--> Abertura de Arquivos:
+Abrir um arquivo significa preparar o arquivo para leitura ou escrita. Isso envolve especificar o modo de abertura, como 
+leitura (r), escrita (w), ou adição (a).
+
+--> Leitura de Arquivos:
+Ler um arquivo envolve acessar o conteúdo do arquivo e trazê-lo para a memória do computador. Isso pode ser feito linha por 
+linha ou em blocos.
+
+--> Escrita de Arquivos:
+Escrever em um arquivo significa adicionar ou modificar o conteúdo do arquivo. Isso pode ser feito escrevendo texto ou dados
+binários.
+
+--> Fechamento de Arquivos:
+Fechar um arquivo é importante para garantir que todos os dados sejam salvos corretamente e que os recursos do sistema sejam 
+liberados.
+
+Trabalho com Arquivos CSV
+
+--> CSV (Comma-Separated Values):
+Arquivos CSV são usados para armazenar dados tabulares em formato de texto simples. Cada linha representa um registro, e cada
+campo dentro de uma linha é separado por uma vírgula (ou outro delimitador).
+
+--> Leitura de Arquivos CSV:
+Ler um arquivo CSV envolve abrir o arquivo, ler cada linha e separar os campos com base no delimitador.
+
+--> Escrita de Arquivos CSV:
+Escrever em um arquivo CSV envolve abrir o arquivo em modo de escrita, formatar os dados como linhas de texto com campos 
+separados por vírgulas e escrever essas linhas no arquivo.
+
+--> exemplo de arquivo CSV:
+| Nome,Idade                  |
+| João,25                     |
+| Maria,30                    |
+| Pedro,22                    |
+| Ana,28                      |
+
+
+Trabalho com Arquivos JSON
+
+--> JSON (JavaScript Object Notation):
+JSON é um formato leve de troca de dados que é fácil para humanos lerem e escreverem e fácil para máquinas analisarem e
+gerarem. Ele é baseado em uma coleção de pares chave/valor e listas ordenadas de valores.
+
+--> Leitura de Arquivos JSON:
+Ler um arquivo JSON envolve abrir o arquivo, ler o conteúdo como uma string e então analisar essa string para converter em uma 
+estrutura de dados (como um objeto ou dicionário).
+
+--> Escrita de Arquivos JSON:
+Escrever em um arquivo JSON envolve converter uma estrutura de dados em uma string JSON e então escrever essa string no arquivo.
+
+--> exemplo de arquivo JSON:
+{
+  "chave": "valor",
+  "nome": "João",
+  "idade": 25,
+  "habilidades": ["JavaScript", "Python", "HTML", "CSS"]
+}

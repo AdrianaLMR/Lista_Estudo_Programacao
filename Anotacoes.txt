@@ -18,5 +18,5 @@ descritivo que pode ser acessado através da função help() ou em IDEs para for
              - No caso do ruturn tanto tem um especifico? 
 
 --> Dúvida: oque é um métdo concreto?
---> - Resposta: é um método que possui uma implementação completa, ou seja, ele faz algo específico e não precisa ser implementado novamente nas subclasses,
+--> Resposta: é um método que possui uma implementação completa, ou seja, ele faz algo específico e não precisa ser implementado novamente nas subclasses,
  a menos que você queira sobrescrevê-lo, podem existir tanto em classes abstratas quanto em classes normais.

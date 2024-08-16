@@ -1,0 +1,28 @@
+Git: 
+Conceitos Básicos
+Git é um sistema de controle de versão distribuído que ajuda a gerenciar alterações no código-fonte durante o desenvolvimento de software.
+
+Comandos Básicos:
+
+git init: Inicializa um novo repositório Git.
+git clone [url]: Clona um repositório remoto para o seu local.
+git add [arquivo]: Adiciona arquivos ou alterações para serem commitadas.
+git commit -m "mensagem": Cria um novo commit com as mudanças adicionadas e uma mensagem descritiva.
+git push: Envia commits para o repositório remoto.
+git pull: Atualiza seu repositório local com as mudanças do repositório remoto.
+git branch: Lista, cria ou exclui branches.
+git checkout [branch]: Muda para uma branch específica.
+git merge [branch]: Mescla as alterações de uma branch em outra.
+
+GitHub/GitLab:
+GitHub/GitLab são plataformas baseadas em Git que oferecem funcionalidades adicionais para colaborar e gerenciar projetos de código.
+
+Criação de Repositórios:
+
+--> GitHub: Na sua página inicial, clique em "New repository", forneça um nome e outras informações, e clique em "Create repository".
+--> GitLab: Vá para "Projects" > "New project", preencha as informações necessárias e clique em "Create project".
+
+Gerenciamento de Pull Requests:
+
+GitHub: Crie um pull request para solicitar a revisão e a fusão de alterações de uma branch para outra. Acesse a aba "Pull requests", clique em "New pull request", selecione as branches e adicione uma descrição.
+GitLab: Semelhante ao GitHub, acesse a aba "Merge Requests", clique em "New merge request", escolha as branches e forneça uma descrição.
