@@ -15,10 +15,9 @@
     Polimorfismo: Métodos sobrescritos, interfaces.
     Abstração: Classes abstratas, métodos abstratos.
     Composição e Agregação: Relacionamentos entre classes.
-4. Tratamento de Exceções
-    Try, Except: Captura e tratamento de exceções.
-    Finally e Else: Execução de código pós-bloco try, código a ser executado se nenhuma exceção for levantada.
-    Criação de Exceções Personalizadas: Definição e uso de exceções customizadas.
+4. Controle de Versão
+    Git: Conceitos básicos, comandos (commit, push, pull, branch, merge).
+    GitHub/GitLab: Criação de repositórios, gerenciamento de pull requests.
 5. Manipulação de Arquivos
     Leitura e Escrita de Arquivos: Abertura, leitura, escrita, fechamento.
     Trabalho com Arquivos CSV e JSON: Leitura e escrita, uso de bibliotecas como csv e json.
@@ -29,9 +28,10 @@
     Protocolos HTTP: Métodos, status codes.
     Frameworks Web: Introdução a frameworks como Flask ou Django.
     APIs: Criação e consumo de APIs.
-8. Controle de Versão
-    Git: Conceitos básicos, comandos (commit, push, pull, branch, merge).
-    GitHub/GitLab: Criação de repositórios, gerenciamento de pull requests.
+8. Tratamento de Exceções
+    Try, Except: Captura e tratamento de exceções.
+    Finally e Else: Execução de código pós-bloco try, código a ser executado se nenhuma exceção for levantada.
+    Criação de Exceções Personalizadas: Definição e uso de exceções customizadas.
 9. Boas Práticas e Design de Código
     Documentação: Comentários, docstrings.
     Estilo de Código: PEP 8, linting.

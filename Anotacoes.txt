@@ -1,0 +1,22 @@
+--> Dúvida: Qual a ordem de escrita da estrutura do código?
+--> Resposta: depende de cada linguagem, mas o correto seria define primeiro e depois implementa e executa. (Acretido que até paraa leitura do código é mais útil).
+
+--> Dúvida: Oque é docstring (ou document string)?
+--> Resposta: é uma string de documentação usada em Python para explicar o propósito de funções, classes ou módulos. 
+Ela é colocada logo após a definição da função, classe ou módulo, dentro de aspas triplas (""" ... """) e serve como um comentário 
+descritivo que pode ser acessado através da função help() ou em IDEs para fornecer informações sobre como o código funciona.
+
+--> Dúvida: Quais os pilares do POO?
+--> - Resposta: Encapsulamento: Protege os dados e métodos dentro de um objeto.
+    - Herança: Permite que uma classe herde características de outra.
+    - Polimorfismo: Permite que métodos tenham diferentes comportamentos.
+    - Abstração: Simplifica sistemas complexos, focando nos aspectos essenciais.
+
+
+(casos dentor do Python)
+--> Dúvida:  - Se usa o f'text text' ou 'text text {}'.format(elemento)?
+             - No caso do ruturn tanto tem um especifico? 
+
+--> Dúvida: oque é um métdo concreto?
+--> - Resposta: é um método que possui uma implementação completa, ou seja, ele faz algo específico e não precisa ser implementado novamente nas subclasses,
+ a menos que você queira sobrescrevê-lo, podem existir tanto em classes abstratas quanto em classes normais.
