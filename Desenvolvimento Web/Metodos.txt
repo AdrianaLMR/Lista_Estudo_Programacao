@@ -1,0 +1,5 @@
+Método GET
+
+--> É um dos métodos HTTP mais comuns usados em APIs para solicitar dados do servidor. Quando um cliente faz uma requisição GET para uma URL, 
+ele está pedindo informações ao servidor. O servidor então processa a requisição e retorna a resposta contendo os dados solicitados.
+ O método GET é utilizado principalmente para recuperar dados sem modificar o estado do servidor.

@@ -1,0 +1,14 @@
+MySQL
+
+--> É um sistema de gerenciamento de banco de dados relacional (RDBMS) de código aberto. 
+--> É usado para armazenar, gerenciar e recuperar dados estruturados. 
+--> É amplamente utilizado em aplicações web e é conhecido por sua alta performance, confiabilidade e facilidade de uso. 
+--> Ele utiliza a linguagem SQL (Structured Query Language) para a manipulação e consulta de dados.
+
+MySQL Workbench
+
+--> É uma ferramenta gráfica para design, desenvolvimento e administração de bancos de dados MySQL. 
+--> Oferece uma interface visual para criar e gerenciar bancos de dados, executar consultas SQL, projetar esquemas de banco de dados e 
+realizar tarefas de manutenção.
+--> Facilita a visualização e interação com o banco de dados, tornando mais fácil para os desenvolvedores e administradores de banco 
+de dados gerenciarem suas instâncias MySQL.

@@ -1,0 +1,6 @@
+Flask
+
+--> Flask é um microframework para desenvolvimento web em Python. Ele é projetado para ser simples e flexível, oferecendo as ferramentas 
+básicas necessárias para construir uma aplicação web. Com o Flask, você pode criar rotas, definir manipuladores de requisições e integrar
+com bancos de dados e outros serviços. O Flask é conhecido por sua simplicidade e facilidade de uso, tornando-o popular entre 
+desenvolvedores que querem construir aplicações web rapidamente.

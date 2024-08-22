@@ -1,0 +1,14 @@
+API
+
+--> Application Programming Interface é um conjunto de regras e definições que permite que diferentes softwares se comuniquem entre si. 
+Em um contexto web, uma API geralmente permite que um cliente (como um aplicativo ou um navegador) faça requisições a um servidor para obter
+ ou enviar dados. APIs são usadas para permitir a integração entre sistemas, permitindo que eles compartilhem funcionalidades e informações.
+
+
+-------------------------->  Consumo de API<--------------------------------------------------
+Postman
+
+Postman é uma ferramenta de desenvolvimento usada para testar e interagir com APIs. Ele permite que você faça requisições HTTP para um
+servidor, visualize as respostas e debug problemas. O Postman é amplamente utilizado por desenvolvedores para testar endpoints de APIs,
+verificar o funcionamento correto das APIs e analisar os dados retornados. Ele fornece uma interface gráfica que facilita a configuração
+e o envio de requisições, bem como a análise de respostas.
